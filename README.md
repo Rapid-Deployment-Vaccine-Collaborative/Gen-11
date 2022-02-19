@@ -1,5 +1,5 @@
 # Gen-11
-SARS-CoV-2 Peptide Vaccine, Gen 11 _(Published September 16, 2021: version 4-1-3)
+SARS-CoV-2 Peptide Vaccine, Gen 11 _(Published September 16, 2021: version 4-1-3)_
 
 Latest versions always hosted on https://radvac.org/white-paper
 
